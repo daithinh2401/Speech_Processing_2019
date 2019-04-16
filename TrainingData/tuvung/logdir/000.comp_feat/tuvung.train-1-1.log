@@ -1,0 +1,162 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/etc/tuvung_train.fileids
+-cep2spec		no		no
+-di					/Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav
+-dither			no		no
+-do					/Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	2.000000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		8.000000e+03
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	3.500000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(971): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/ba.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/ba.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/ba_211523.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/ba_211523.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/ba_211527.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/ba_211527.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/ba_211531.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/ba_211531.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/ba_211536.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/ba_211536.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/bary.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/bary.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/bary_211612.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/bary_211612.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/bary_211615.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/bary_211615.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/bary_211619.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/bary_211619.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/bary_211622.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/bary_211622.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/boosn.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/boosn.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/boosn_211636.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/boosn_211636.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/boosn_211639.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/boosn_211639.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/boosn_211643.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/boosn_211643.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/boosn_211647.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/boosn_211647.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chia.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chia.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chia_211751.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chia_211751.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chia_211755.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chia_211755.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chia_211759.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chia_211759.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chia_211803.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chia_211803.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211813.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211813.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211828.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211828.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211837.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211837.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211840.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211840.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211843.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211843.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211846.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211846.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chisn_211849.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chisn_211849.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chos.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chos.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chos_211859.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chos_211859.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chos_211903.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chos_211903.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chos_211907.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chos_211907.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chos_211911.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chos_211911.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chuoojt.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chuoojt.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chuoojt_211922.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chuoojt_211922.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chuoojt_211926.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chuoojt_211926.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chuoojt_211932.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chuoojt_211932.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/chuoojt_211937.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/chuoojt_211937.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/coojng.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/coojng.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/coojng_211945.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/coojng_211945.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/coojng_211954.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/coojng_211954.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/coojng_211958.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/coojng_211958.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/coojng_212003.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/coojng_212003.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/gaf.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/gaf.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/hai.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/hai.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/hai_212408.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/hai_212408.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/hai_212411.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/hai_212411.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/hai_212415.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/hai_212415.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/hai_212424.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/hai_212424.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/heo.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/heo.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/heo_212429.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/heo_212429.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/heo_212433.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/heo_212433.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/heo_212441.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/heo_212441.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/heo_212445.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/heo_212445.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/khoong.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/khoong.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/khoong_212645.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/khoong_212645.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/khoong_212648.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/khoong_212648.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/khoong_212651.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/khoong_212651.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/khoong_212656.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/khoong_212656.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/mefo.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/mefo.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/mefo_212836.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/mefo_212836.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/mefo_212839.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/mefo_212839.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/mefo_212846.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/mefo_212846.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/mefo_212852.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/mefo_212852.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/moojt.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/moojt.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/moojt_212857.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/moojt_212857.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/moojt_212903.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/moojt_212903.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/moojt_212907.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/moojt_212907.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/moojt_212910.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/moojt_212910.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_212919.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_212919.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_212922.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_212922.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_215636.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_215636.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_215638.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_215638.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_215641.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_215641.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_215643.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_215643.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/muwowfi_215646.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/muwowfi_215646.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nawm.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nawm.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nawm_213017.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nawm_213017.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nawm_213021.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nawm_213021.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nawm_213029.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nawm_213029.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nawm_213033.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nawm_213033.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nhaan.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nhaan.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nhaan_213124.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nhaan_213124.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nhaan_213131.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nhaan_213131.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nhaan_213135.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nhaan_213135.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/nhaan_213138.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/nhaan_213138.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/sasu.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/sasu.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/sasu_213600.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/sasu_213600.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/sasu_213603.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/sasu_213603.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/sasu_213610.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/sasu_213610.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/sasu_213613.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/sasu_213613.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/tasm.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/tasm.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/tasm_213638.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/tasm_213638.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/tasm_213645.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/tasm_213645.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/tasm_213647.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/tasm_213647.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/tasm_213657.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/tasm_213657.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/truwf.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/truwf.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/truwf_213724.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/truwf_213724.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/truwf_213728.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/truwf_213728.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/truwf_213736.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/truwf_213736.mfc
+INFO: sphinx_fe.c(791): Converting /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/wav/truwf_213740.wav to /Users/thinhnguyen/Desktop/Master/SpeechProcessing/TrainingData/tuvung/feat/truwf_213740.mfc
+Tue Apr 16 21:36:52 2019
