@@ -1,5 +1,3 @@
-Speech Processing 2019
-
 Đồ án môn Xử lý tiếng nói.
 
 Trường Đại học Tôn Đức Thắng
